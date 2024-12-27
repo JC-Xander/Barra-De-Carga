@@ -1,10 +1,9 @@
 /**
- * @file Memoria.cpp
- * @brief Programa de carga en consola que muestra el porcentaje del tiempo transcurrido.
+ * @file C++.cpp
+ * @brief Barra de carga en consola que muestra el tiempo transcurrido.
  * 
- * Es una muestra de cómo podemos usar un porcentaje de progreso enviado por
- * un hilo para mostrar al usuario el avance de dicha tarea mediante una 
- * bonita barra de progreso.
+ * Es una muestra de cómo podemos presentar en una bonita barra de carga, 
+ * el porcentage de progreso de una tarea.
  * 
  * @details Este programa utiliza tres hilos:
  * - Uno para manejar la cuenta regresiva (`countdown`).
